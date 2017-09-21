@@ -1,4 +1,4 @@
-# Bobril TodoMVC Example [![Build Status](https://travis-ci.org/lephuongbac/todomvc.svg?branch=master)](https://travis-ci.org/lephuongbac/todomvc)
+# Bobril TodoMVC Example [![Build Status](https://travis-ci.org/lephuongbac/todomvc-bobx.svg?branch=master)](https://travis-ci.org/lephuongbac/todomvc-bobx)
 
 > Bobril is a Component oriented framework inspired by ReactJs (Virtual DOM, components with state) and Mithril (small size, more complete framework).
 
@@ -7,7 +7,7 @@
 
 ## Learning Bobril
 
-The [Bobril - I - Getting Started](http://www.codeproject.com/Articles/1044425/Bobril-I-Getting-Started) is a great way to get started.
+The [Bobril - I - Getting Started](http://www.bobril.com) is a great way to get started.
 
 Here are some links you may find helpful:
 
