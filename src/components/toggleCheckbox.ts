@@ -5,7 +5,7 @@ export default b.createComponent<IData>({
         me.tag = 'input';
         me.attrs = {
             type: 'checkbox',
-            checked: ctx.data.isChecked
+            value: ctx.data.isChecked
         };
         b.style(me, checkboxStyle);
     },
